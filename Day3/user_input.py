@@ -1,4 +1,4 @@
-from Day3.robot import *
+from robot import *
 
 
 def user():
