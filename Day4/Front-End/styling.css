@@ -1,0 +1,74 @@
+img {
+max-width:80px;
+max-height:80px;
+display:block;
+margin:auto auto;
+align:center;
+}
+body{
+	background-color:#ECECEC;
+}
+#bottomspace{
+    width: 100%;
+	height:138px;
+    background-color: #DCDCDC;
+    border-top: 1px solid ;
+    
+}
+
+#brandLogo {
+    height: 192px;
+    width: 192px;
+    margin: 22px auto 31px;
+    background-image: url("mozila.jpg");
+    background-size: 192px auto;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+#searchIcon {
+    border: 1px transparent;
+    padding: 0;
+    margin: 0;
+    width: 36px;
+    height: 36px;
+    background: url("C:/Users/Spike/Desktop/google/search.jpg") center center no-repeat;
+    position: absolute;
+	padding-left:3px;
+}
+
+#searchText {
+    margin-left: 0;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-inline-start: 34px;
+    padding-inline-end: 8px;
+    border: 1px solid;
+    border-radius: 2px 0 0 2px;
+    color: inherit;
+	background-color: #FFFFF ;
+}
+#bt{
+	margin-left: 0;
+    padding-top: 6px;
+    padding-bottom: 6px;
+	padding-inline-start: 34px;
+    padding-inline-end: 8px;
+    border: 1px solid;
+    border-radius: 2px 0 0 2px;
+	background-color: #00BFFF;
+}
+.bts {
+    margin: 16px 1px;
+    padding: 14px 6px;
+    min-width: 88px;
+    max-width: 196px;
+    max-height: 85px;
+    vertical-align: top;
+    white-space: normal;
+    background: transparent padding-box;
+    border: 1px solid transparent;
+    border-radius: 2px;
+    color: #525c66;
+    font-size: 75%;
+}
