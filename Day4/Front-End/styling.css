@@ -32,9 +32,8 @@ body{
     margin: 0;
     width: 36px;
     height: 36px;
-    background: url("C:/Users/Spike/Desktop/google/search.jpg") center center no-repeat;
     position: absolute;
-	padding-left:3px;
+    padding-left:3px;
 }
 
 #searchText {
