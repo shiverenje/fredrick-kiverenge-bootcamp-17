@@ -13,4 +13,4 @@ def get_robots_txt(url):
     return data.read()
 
 
-#print(get_robots_txt('https://www.facebook.com'))
+print(get_robots_txt('https://www.facebook.com'))
